@@ -4,7 +4,8 @@ from analytics_ui import analytics_tab
 from monthly_analytics_ui import monthly_analytics_tab
 
 
-st.title("Expense Tracking System")
+st.title("Expense tracking system")
+st.caption("Keep your spending organized, one expense at a time.")
 
 tab1, tab2, tab3 = st.tabs(["Add/Update", "Analytics", "Analytics by Month"])
 
@@ -16,4 +17,3 @@ with tab2:
 
 with tab3:
     monthly_analytics_tab()
-
