@@ -52,6 +52,7 @@ Open `http://localhost:8501` for Streamlit or `http://localhost:8000/docs`
 for the FastAPI documentation.
 
 For a deployed API, set `API_URL` to the public API URL before starting Streamlit.
+![Dashboard Preview](https://github.com/PrashantDes/expense-tracking-system/blob/main/ui%20snapshot.png)
 
 ## Test
 
